@@ -1,11 +1,11 @@
-<h1 align="center">Micks Tutoring | <a href="https://g-roid.github.io/micks-tutoring/">Visit here!</a></h1>
+<h1 align="center">Squid Ink Tattoo | <a href="https://g-roid.github.io/squid-ink-tattoo/">Visit here!</a></h1>
 <div align="center">
-  <a href='https://g-roid.github.io/micks-tutoring/'>
-	  <img src="https://github.com/G-Roid/G-Roid/blob/main/assets/micks-tutoring.gif" width="100%" />
+  <a href='https://g-roid.github.io/squid-ink-tattoo/'>
+	  <img src="./images/squid-ink.gif" width="100%" />
   </a>
 </div>
 
-<h3 align="center">Micks Tutoring Website</h3>
+<h3 align="center">Squid Ink Tattoo</h3>
 <br>
 <br>
 
@@ -32,4 +32,4 @@ I encounter issues when including the icons for each service. The font awesome d
 
 ## Lessons Learned:
 
-The developer tools allowed me to view the website at different device resolutions. I was able to include media queries to change the displayed content.  
+The developer tools allowed me to view the website at different device resolutions. I was able to include media queries to change the displayed content. By inluding google fonts I was able to include custom fonts
